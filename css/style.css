@@ -20,12 +20,12 @@ body {
 
 
 body h2 {
-  background: url(../img/luke01.PNG) center no-repeat color(red);
+  background: url(../imgs/luke01.PNG) center no-repeat color(red);
   background-size: 75vw;
 }
 
 header h1 {
-  background: url(../assets/img/6362044.png) no-repeat center;
+  background: url(./imgs/luke02.png) no-repeat center;
   font-weight: bold;
   background-size: contain;
   color: rgb(102, 40, 40);
