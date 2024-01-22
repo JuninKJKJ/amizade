@@ -20,12 +20,12 @@ body {
 
 
 body h2 {
-  background: url(./imgs/lembrancas.PNG) center no-repeat color(red);
+  background: url(..//assets/imgs/lembrancas.PNG) center no-repeat color(red);
   background-size: 75vw;
 }
 
 header h1 {
-  background: url(./imgs/luke02.png) no-repeat center;
+  background: url(..//assets/imgs/luke02.jpg) no-repeat center;
   font-weight: bold;
   background-size: contain;
   color: rgb(102, 40, 40);
